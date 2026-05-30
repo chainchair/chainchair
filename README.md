@@ -34,3 +34,9 @@ I Also participated in projects implementing AI and using it in the making proce
   <img height="180em"  width=42% src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=chainchair&layout=compact&langs_count=8&theme=algolia"/>
 </p>
 <br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/chainchair/chainchair/blob/output/github-contribution-grid-snake-dark.svg?raw=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/chainchair/chainchair/blob/output/github-contribution-grid-snake.svg?raw=true" />
+  <img alt="github-snake" src="https://github.com/chainchair/chainchair/blob/output/github-contribution-grid-snake.svg?raw=true" />
+</picture>

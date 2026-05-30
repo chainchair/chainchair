@@ -27,12 +27,21 @@ I Also participated in projects implementing AI and using it in the making proce
 <br>
 
 ##  📈 Stats
-
 <p align="center">
-
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=chainchair&theme=algolia" />
-  <img height="180em"  width=48% src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=chainchair&layout=compact&langs_count=8&theme=algolia"/>
+   <table style="border: none;">
+      <tr>
+         <td valign="middle" >
+            <img height="300"  width="500px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=chainchair&langs_count=5&theme=algolia"/>
+         </td>
+         <td valign="middle"  >
+            <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=chainchair&theme=algolia"/>
+         </td>
+      </tr>
+   </table>
+   
+   
 </p>
+
 <br>
 
 <picture>

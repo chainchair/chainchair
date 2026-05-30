@@ -31,7 +31,7 @@ I Also participated in projects implementing AI and using it in the making proce
 <p align="center">
 
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=chainchair&theme=algolia" />
-  <img height="180em"  width=42% src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=chainchair&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em"  width=48% src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=chainchair&layout=compact&langs_count=8&theme=algolia"/>
 </p>
 <br>
 
